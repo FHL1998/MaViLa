@@ -1,5 +1,5 @@
 <h1 style="display: flex; align-items: center;">
-  <img src="MaViLa.png" alt="Logo" width="50" style="margin-right: 5px;">
+  <img src="logo.png" alt="Logo" width="50" style="margin-right: 5px;">
   MaViLa: Vision Language Model for Manufacturing
 </h1>
 
