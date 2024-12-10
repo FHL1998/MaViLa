@@ -1,10 +1,7 @@
-# MaViLa
-Vision Language Model for Manufacturing
-# Visual-Language Model (VLM) Training with MaViLa
-
+# MaViLa: Vision Language Model for Manufacturing
 ## Introduction
 
-In this study, we focus on Visual-Language Model (VLM) training. Encoders are utilized to distill image and text features from $N$ image-caption pairings:
+In this study, we focus on Visual-Language Model (VLM) training for manufacturing. Encoders are utilized to distill image and text features from $N$ image-caption pairings:
 
 $$ \\mathcal{D} = \\left\\{x_n^V, x_m^\\mathcal{I}, x_m^\\mathcal{R}\\right\\}_{n,m=1}^{N, M} $$
 
