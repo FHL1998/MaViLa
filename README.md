@@ -20,7 +20,6 @@ Additionally, the text encoder $f_\\phi$ converts human instructions in $x_m^\\m
 
 The architecture of this network is shown in Figure 1. We employ **Vicuna** as the backbone LLM due to its superior performance in semantic understanding and human instruction-following [Zheng et al., 2023].
 
-![Network Structure](network_structure.png)
 <p align="center">
   <img src="network_structure.png" alt="Network Structure" width="60%">
 </p>
@@ -34,7 +33,6 @@ The architecture of this network is shown in Figure 1. We employ **Vicuna** as t
 
 As introduced in Section 3.3, MaViLa is benchmarked against various general-purpose VLMs. Its performance is visualized in Figure 2. This section highlights MaViLa's expertise across tasks, with a focus on its significance in the manufacturing domain.
 
-![VLMs Comparison Heatmap](radar_plot.png)
 <p align="center">
   <img src="radar_plot.png" alt="Radar Plot" width="60%">
 </p>
