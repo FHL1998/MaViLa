@@ -2,7 +2,8 @@
   <img src="logo.png" alt="Logo" width="40" style="margin-right: 10px;">
   MaViLa: Vision Language Model for Manufacturing
 </h1>
-[![MaViLa Demo](https://img.shields.io/badge/MaViLa-Demo-blue?style=for-the-badge&logo=link)](https://ielts8-mavila.hf.space/)
+
+[![MaViLa Demo](https://img.shields.io/static/v1?label=Demo&message=MaViLa&color=blue&style=for-the-badge)](https://ielts8-mavila.hf.space/)
 
 ## Introduction
 
