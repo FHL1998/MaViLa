@@ -1,7 +1,8 @@
-<h1>
-  <img src="MaViLa.png" alt="Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+<h1 style="display: flex; align-items: center; gap: 10px;">
+  <img src="MaViLa.png" alt="Logo" width="40" style="vertical-align: middle;">
   MaViLa: Vision Language Model for Manufacturing
 </h1>
+
 
 ## Introduction
 
